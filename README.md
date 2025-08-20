@@ -1,2 +1,20 @@
-# Convolutional-Neural-Network-CNN-on-CIFAR-10-Dataset
-I built a Convolutional Neural Network (CNN) model using the CIFAR-10 dataset, which contains 60,000 images across 10 categories such as airplanes, cars, cats, and ships. The model was trained with convolution, pooling, and dense layers to classify images, achieving good accuracy on the test set.
+# CNN on CIFAR-10 Dataset
+
+This project implements a Convolutional Neural Network (CNN) to classify images from the CIFAR-10 dataset into 10 categories such as airplanes, cars, birds, and ships.
+
+## Tools & Libraries
+- Python
+- TensorFlow / Keras
+- NumPy, Pandas
+- Matplotlib
+
+## Steps
+1. Data preprocessing
+2. Model building (Conv2D, MaxPooling, Dense layers)
+3. Training and evaluation
+4. Achieved accuracy: 90.01%
+
+## Future Work
+- Apply data augmentation
+- Add Dropout layers
+- Explore transfer learning
